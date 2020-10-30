@@ -1,7 +1,7 @@
 [![Donations Badge](https://yourdonation.rocks/images/badge.svg)](https://mrs0m30n3.github.io/youtube-dl-gui/donate.html)
 
-# youtube-dlG
-A cross platform front-end GUI of the popular [youtube-dl](https://rg3.github.io/youtube-dl/) media downloader written in wxPython. [Supported sites](https://rg3.github.io/youtube-dl/supportedsites.html)
+# youtube-dlcG
+A fork of [Youtube-dlG](https://github.com/MrS0m30n3/youtube-dl-gui), the cross platform front-end GUI of the popular [youtube-dl](https://youtube-dl.org/) and [youtube-dlc](https://github.com/blackjack4494/yt-dlc) media downloader written in wxPython. (WIP)
 
 ## Screenshots
 ![youtube-dl-gui main window](https://raw.githubusercontent.com/MrS0m30n3/youtube-dl-gui/gh-pages/images/ydlg_ui.gif)
