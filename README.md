@@ -7,7 +7,7 @@ A fork of [Youtube-dlG](https://github.com/MrS0m30n3/youtube-dl-gui), the cross 
 ![youtube-dl-gui main window](https://raw.githubusercontent.com/MrS0m30n3/youtube-dl-gui/gh-pages/images/ydlg_ui.gif)
 
 ## Requirements
-* [Python 2.7.3+](https://www.python.org/downloads)
+* [Python 3+](https://www.python.org/downloads)
 * [wxPython 3](https://wxpython.org/download.php)
 * [TwoDict](https://pypi.python.org/pypi/twodict)
 * [GNU gettext](https://www.gnu.org/software/gettext/) (to build the package)
